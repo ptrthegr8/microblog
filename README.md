@@ -1,5 +1,5 @@
 microblog
-==============================================
+===========
 
 Description:
 ------------
@@ -18,7 +18,7 @@ Enter the project directory:
 
 Create your virtual environment, install dependences from `Pipfile`, and initialize virtual environment:
 
-    $ pipenv install && pipenv init
+    $ pipenv install && pipenv shell
     
 Specify which file to load as the application:
 
